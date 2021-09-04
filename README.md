@@ -1,5 +1,5 @@
 
-### olá! eusou o lincolnbarreto 👋
+### olá! eu sou o lincolnbarreto 👋
 
 
 
