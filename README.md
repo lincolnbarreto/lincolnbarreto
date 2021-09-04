@@ -33,3 +33,7 @@
 </div> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnbarreto)](https://github.com/lincolnbarreto/github-readme-stats)
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/lincolnbarreto/count.svg" />
+ </p>
